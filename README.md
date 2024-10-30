@@ -1,7 +1,6 @@
 # Contador de pajas
 
-Programa en Java para contar las pajas que os haceis en grupo (no necesariamente en persona) y comentáis en un grupo de whatsapp para presumir posteriormente en clase.
-Para el caso, solo funciona si las pajas se marcan con el emoticono del tick verde en los mensajes.
+Se entiende.
 
 ## Requisitos de Configuración
 
